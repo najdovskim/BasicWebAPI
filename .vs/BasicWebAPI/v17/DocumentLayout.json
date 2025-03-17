@@ -1,0 +1,639 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B5408A-E4A5-4F4B-8F23-75709341B5B7}|BasicWebAPI.Dal\\BasicWebAPI.Dal.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.dal\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B5408A-E4A5-4F4B-8F23-75709341B5B7}|BasicWebAPI.Dal\\BasicWebAPI.Dal.csproj|solutionrelative:basicwebapi.dal\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE1FE11-3D51-4D76-AEDE-97F55A25C112}|BasicWebAPI.API\\BasicWebAPI.API.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE1FE11-3D51-4D76-AEDE-97F55A25C112}|BasicWebAPI.API\\BasicWebAPI.API.csproj|solutionrelative:basicwebapi.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE1FE11-3D51-4D76-AEDE-97F55A25C112}|BasicWebAPI.API\\BasicWebAPI.API.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.api\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE1FE11-3D51-4D76-AEDE-97F55A25C112}|BasicWebAPI.API\\BasicWebAPI.API.csproj|solutionrelative:basicwebapi.api\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE1FE11-3D51-4D76-AEDE-97F55A25C112}|BasicWebAPI.API\\BasicWebAPI.API.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE1FE11-3D51-4D76-AEDE-97F55A25C112}|BasicWebAPI.API\\BasicWebAPI.API.csproj|solutionrelative:basicwebapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B5408A-E4A5-4F4B-8F23-75709341B5B7}|BasicWebAPI.Dal\\BasicWebAPI.Dal.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.dal\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B5408A-E4A5-4F4B-8F23-75709341B5B7}|BasicWebAPI.Dal\\BasicWebAPI.Dal.csproj|solutionrelative:basicwebapi.dal\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE1FE11-3D51-4D76-AEDE-97F55A25C112}|BasicWebAPI.API\\BasicWebAPI.API.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3BE1FE11-3D51-4D76-AEDE-97F55A25C112}|BasicWebAPI.API\\BasicWebAPI.API.csproj|solutionrelative:basicwebapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76DA1D0A-0446-4518-99A5-A032F5504007}|BasicWebAPI.Test\\BasicWebAPI.Tests.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.test\\countrycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76DA1D0A-0446-4518-99A5-A032F5504007}|BasicWebAPI.Test\\BasicWebAPI.Tests.csproj|solutionrelative:basicwebapi.test\\countrycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE1FE11-3D51-4D76-AEDE-97F55A25C112}|BasicWebAPI.API\\BasicWebAPI.API.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.api\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE1FE11-3D51-4D76-AEDE-97F55A25C112}|BasicWebAPI.API\\BasicWebAPI.API.csproj|solutionrelative:basicwebapi.api\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76DA1D0A-0446-4518-99A5-A032F5504007}|BasicWebAPI.Test\\BasicWebAPI.Tests.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.test\\contactcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76DA1D0A-0446-4518-99A5-A032F5504007}|BasicWebAPI.Test\\BasicWebAPI.Tests.csproj|solutionrelative:basicwebapi.test\\contactcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76DA1D0A-0446-4518-99A5-A032F5504007}|BasicWebAPI.Test\\BasicWebAPI.Tests.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.test\\companycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76DA1D0A-0446-4518-99A5-A032F5504007}|BasicWebAPI.Test\\BasicWebAPI.Tests.csproj|solutionrelative:basicwebapi.test\\companycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35F03F-C0B4-44F4-953B-B9EA6B98F876}|BasicWebAPI.Domain\\BasicWebAPI.Domain.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.domain\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35F03F-C0B4-44F4-953B-B9EA6B98F876}|BasicWebAPI.Domain\\BasicWebAPI.Domain.csproj|solutionrelative:basicwebapi.domain\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76DA1D0A-0446-4518-99A5-A032F5504007}|BasicWebAPI.Test\\BasicWebAPI.Tests.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.test\\basicwebapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{76DA1D0A-0446-4518-99A5-A032F5504007}|BasicWebAPI.Test\\BasicWebAPI.Tests.csproj|solutionrelative:basicwebapi.test\\basicwebapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B5408A-E4A5-4F4B-8F23-75709341B5B7}|BasicWebAPI.Dal\\BasicWebAPI.Dal.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.dal\\repository\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B5408A-E4A5-4F4B-8F23-75709341B5B7}|BasicWebAPI.Dal\\BasicWebAPI.Dal.csproj|solutionrelative:basicwebapi.dal\\repository\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76DA1D0A-0446-4518-99A5-A032F5504007}|BasicWebAPI.Test\\BasicWebAPI.Tests.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.test\\services\\countryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76DA1D0A-0446-4518-99A5-A032F5504007}|BasicWebAPI.Test\\BasicWebAPI.Tests.csproj|solutionrelative:basicwebapi.test\\services\\countryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.service\\dtos\\contact\\contactgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|solutionrelative:basicwebapi.service\\dtos\\contact\\contactgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.service\\dtos\\country\\countrygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|solutionrelative:basicwebapi.service\\dtos\\country\\countrygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.service\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|solutionrelative:basicwebapi.service\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.service\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|solutionrelative:basicwebapi.service\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76DA1D0A-0446-4518-99A5-A032F5504007}|BasicWebAPI.Test\\BasicWebAPI.Tests.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.test\\services\\contactservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76DA1D0A-0446-4518-99A5-A032F5504007}|BasicWebAPI.Test\\BasicWebAPI.Tests.csproj|solutionrelative:basicwebapi.test\\services\\contactservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.service\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|solutionrelative:basicwebapi.service\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.service\\interfaces\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|solutionrelative:basicwebapi.service\\interfaces\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76DA1D0A-0446-4518-99A5-A032F5504007}|BasicWebAPI.Test\\BasicWebAPI.Tests.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.test\\services\\companyservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76DA1D0A-0446-4518-99A5-A032F5504007}|BasicWebAPI.Test\\BasicWebAPI.Tests.csproj|solutionrelative:basicwebapi.test\\services\\companyservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.service\\dtos\\company\\companygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|solutionrelative:basicwebapi.service\\dtos\\company\\companygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35F03F-C0B4-44F4-953B-B9EA6B98F876}|BasicWebAPI.Domain\\BasicWebAPI.Domain.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.domain\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35F03F-C0B4-44F4-953B-B9EA6B98F876}|BasicWebAPI.Domain\\BasicWebAPI.Domain.csproj|solutionrelative:basicwebapi.domain\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D35F03F-C0B4-44F4-953B-B9EA6B98F876}|BasicWebAPI.Domain\\BasicWebAPI.Domain.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.domain\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D35F03F-C0B4-44F4-953B-B9EA6B98F876}|BasicWebAPI.Domain\\BasicWebAPI.Domain.csproj|solutionrelative:basicwebapi.domain\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.service\\dtos\\country\\countrypostputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|solutionrelative:basicwebapi.service\\dtos\\country\\countrypostputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.service\\dtos\\contact\\contactpostputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|solutionrelative:basicwebapi.service\\dtos\\contact\\contactpostputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.service\\dtos\\company\\companypostputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|solutionrelative:basicwebapi.service\\dtos\\company\\companypostputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.service\\interfaces\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|solutionrelative:basicwebapi.service\\interfaces\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B5408A-E4A5-4F4B-8F23-75709341B5B7}|BasicWebAPI.Dal\\BasicWebAPI.Dal.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.dal\\repository\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B5408A-E4A5-4F4B-8F23-75709341B5B7}|BasicWebAPI.Dal\\BasicWebAPI.Dal.csproj|solutionrelative:basicwebapi.dal\\repository\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B5408A-E4A5-4F4B-8F23-75709341B5B7}|BasicWebAPI.Dal\\BasicWebAPI.Dal.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.dal\\interfaces\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B5408A-E4A5-4F4B-8F23-75709341B5B7}|BasicWebAPI.Dal\\BasicWebAPI.Dal.csproj|solutionrelative:basicwebapi.dal\\interfaces\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B5408A-E4A5-4F4B-8F23-75709341B5B7}|BasicWebAPI.Dal\\BasicWebAPI.Dal.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.dal\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B5408A-E4A5-4F4B-8F23-75709341B5B7}|BasicWebAPI.Dal\\BasicWebAPI.Dal.csproj|solutionrelative:basicwebapi.dal\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.service\\automapper\\contactmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|solutionrelative:basicwebapi.service\\automapper\\contactmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/test/True/SqlTable/dbo.Contacts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.service\\interfaces\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|solutionrelative:basicwebapi.service\\interfaces\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.service\\automapper\\companymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|solutionrelative:basicwebapi.service\\automapper\\companymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|c:\\users\\pc\\source\\repos\\basicwebapi\\basicwebapi.service\\automapper\\countrymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D9E95A-6D46-4485-9CEC-7ABA0C1D80A2}|BasicWebAPI.Service\\BasicWebAPI.Service.csproj|solutionrelative:basicwebapi.service\\automapper\\countrymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Dal\\Migrations\\20250315174636_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BasicWebAPI.Dal\\Migrations\\20250315174636_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Dal\\Migrations\\20250315173910_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BasicWebAPI.Dal\\Migrations\\20250315173910_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.API\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.API\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.API\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "BasicWebAPI.API\\Controllers\\CompanyController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwEEAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:52:34.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BasicWebAPI.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.API\\appsettings.json",
+              "RelativeToolTip": "BasicWebAPI.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T17:38:46.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Dal\\DataContext.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Dal\\DataContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Dal\\DataContext.cs",
+              "RelativeToolTip": "BasicWebAPI.Dal\\DataContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:44:38.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Dal\\Repository\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Dal\\Repository\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Dal\\Repository\\ContactRepository.cs",
+              "RelativeToolTip": "BasicWebAPI.Dal\\Repository\\ContactRepository.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwE8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:38:46.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.API\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.API\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.API\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "BasicWebAPI.API\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:34:52.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.API\\Program.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.API\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.API\\Program.cs",
+              "RelativeToolTip": "BasicWebAPI.API\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAswEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:53:30.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Test\\ContactControllerTests.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Test\\ContactControllerTests.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Test\\ContactControllerTests.cs",
+              "RelativeToolTip": "BasicWebAPI.Test\\ContactControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:04:23.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Domain\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Domain\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Domain\\Models\\Company.cs",
+              "RelativeToolTip": "BasicWebAPI.Domain\\Models\\Company.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:22:36.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CompanyControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Test\\CompanyControllerTests.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Test\\CompanyControllerTests.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Test\\CompanyControllerTests.cs",
+              "RelativeToolTip": "BasicWebAPI.Test\\CompanyControllerTests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:59:38.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountryControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Test\\CountryControllerTests.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Test\\CountryControllerTests.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Test\\CountryControllerTests.cs",
+              "RelativeToolTip": "BasicWebAPI.Test\\CountryControllerTests.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:09:57.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BasicWebAPI.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Test\\BasicWebAPI.Tests.csproj",
+              "RelativeDocumentMoniker": "BasicWebAPI.Test\\BasicWebAPI.Tests.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Test\\BasicWebAPI.Tests.csproj",
+              "RelativeToolTip": "BasicWebAPI.Test\\BasicWebAPI.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-17T19:07:36.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.API\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.API\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.API\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "BasicWebAPI.API\\Controllers\\CountryController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:29:42.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Dal\\Repository\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Dal\\Repository\\CompanyRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Dal\\Repository\\CompanyRepository.cs",
+              "RelativeToolTip": "BasicWebAPI.Dal\\Repository\\CompanyRepository.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAowHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:21:37.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ContactServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Test\\Services\\ContactServiceTests.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Test\\Services\\ContactServiceTests.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Test\\Services\\ContactServiceTests.cs",
+              "RelativeToolTip": "BasicWebAPI.Test\\Services\\ContactServiceTests.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:18:51.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContactGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Dtos\\Contact\\ContactGetDto.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Service\\Dtos\\Contact\\ContactGetDto.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Dtos\\Contact\\ContactGetDto.cs",
+              "RelativeToolTip": "BasicWebAPI.Service\\Dtos\\Contact\\ContactGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:44:47.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CountryGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Dtos\\Country\\CountryGetDto.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Service\\Dtos\\Country\\CountryGetDto.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Dtos\\Country\\CountryGetDto.cs",
+              "RelativeToolTip": "BasicWebAPI.Service\\Dtos\\Country\\CountryGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:43:24.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Services\\CountryService.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Service\\Services\\CountryService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Services\\CountryService.cs",
+              "RelativeToolTip": "BasicWebAPI.Service\\Services\\CountryService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:31:08.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CountryServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Test\\Services\\CountryServiceTests.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Test\\Services\\CountryServiceTests.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Test\\Services\\CountryServiceTests.cs",
+              "RelativeToolTip": "BasicWebAPI.Test\\Services\\CountryServiceTests.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:39:33.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Services\\ContactService.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Service\\Services\\ContactService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Services\\ContactService.cs",
+              "RelativeToolTip": "BasicWebAPI.Service\\Services\\ContactService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:38:02.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Interfaces\\ICompanyService.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Service\\Interfaces\\ICompanyService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Interfaces\\ICompanyService.cs",
+              "RelativeToolTip": "BasicWebAPI.Service\\Interfaces\\ICompanyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:47:32.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CompanyServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Test\\Services\\CompanyServiceTests.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Test\\Services\\CompanyServiceTests.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Test\\Services\\CompanyServiceTests.cs",
+              "RelativeToolTip": "BasicWebAPI.Test\\Services\\CompanyServiceTests.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwHUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:09:21.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CompanyGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Dtos\\Company\\CompanyGetDto.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Service\\Dtos\\Company\\CompanyGetDto.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Dtos\\Company\\CompanyGetDto.cs",
+              "RelativeToolTip": "BasicWebAPI.Service\\Dtos\\Company\\CompanyGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:41:35.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Services\\CompanyService.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Service\\Services\\CompanyService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Services\\CompanyService.cs",
+              "RelativeToolTip": "BasicWebAPI.Service\\Services\\CompanyService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAcwFgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:48:05.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Domain\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Domain\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Domain\\Models\\Country.cs",
+              "RelativeToolTip": "BasicWebAPI.Domain\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:38:07.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Domain\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Domain\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Domain\\Models\\Contact.cs",
+              "RelativeToolTip": "BasicWebAPI.Domain\\Models\\Contact.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:45:27.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CountryPostPutDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Dtos\\Country\\CountryPostPutDto.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Service\\Dtos\\Country\\CountryPostPutDto.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Dtos\\Country\\CountryPostPutDto.cs",
+              "RelativeToolTip": "BasicWebAPI.Service\\Dtos\\Country\\CountryPostPutDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:44:02.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ContactPostPutDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Dtos\\Contact\\ContactPostPutDto.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Service\\Dtos\\Contact\\ContactPostPutDto.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Dtos\\Contact\\ContactPostPutDto.cs",
+              "RelativeToolTip": "BasicWebAPI.Service\\Dtos\\Contact\\ContactPostPutDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:45:28.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CompanyPostPutDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Dtos\\Company\\CompanyPostPutDto.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Service\\Dtos\\Company\\CompanyPostPutDto.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Dtos\\Company\\CompanyPostPutDto.cs",
+              "RelativeToolTip": "BasicWebAPI.Service\\Dtos\\Company\\CompanyPostPutDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:42:33.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Interfaces\\IContactService.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Service\\Interfaces\\IContactService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Interfaces\\IContactService.cs",
+              "RelativeToolTip": "BasicWebAPI.Service\\Interfaces\\IContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:37:24.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Dal\\Repository\\CountryRepository.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Dal\\Repository\\CountryRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Dal\\Repository\\CountryRepository.cs",
+              "RelativeToolTip": "BasicWebAPI.Dal\\Repository\\CountryRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:46:02.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Dal\\Interfaces\\ICountryRepository.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Dal\\Interfaces\\ICountryRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Dal\\Interfaces\\ICountryRepository.cs",
+              "RelativeToolTip": "BasicWebAPI.Dal\\Interfaces\\ICountryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:29:40.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Dal\\Interfaces\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Dal\\Interfaces\\IContactRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Dal\\Interfaces\\IContactRepository.cs",
+              "RelativeToolTip": "BasicWebAPI.Dal\\Interfaces\\IContactRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwA0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:38:32.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ContactMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Automapper\\ContactMappingProfile.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Service\\Automapper\\ContactMappingProfile.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Automapper\\ContactMappingProfile.cs",
+              "RelativeToolTip": "BasicWebAPI.Service\\Automapper\\ContactMappingProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBIAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:44:42.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "dbo.Contacts.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/test/True/SqlTable/dbo.Contacts.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/test/True/SqlTable/dbo.Contacts.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-16T19:15:51.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ICountryService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Interfaces\\ICountryService.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Service\\Interfaces\\ICountryService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Interfaces\\ICountryService.cs",
+              "RelativeToolTip": "BasicWebAPI.Service\\Interfaces\\ICountryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:31:44.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CompanyMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Automapper\\CompanyMappingProfile.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Service\\Automapper\\CompanyMappingProfile.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Automapper\\CompanyMappingProfile.cs",
+              "RelativeToolTip": "BasicWebAPI.Service\\Automapper\\CompanyMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:51:32.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CountryMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Automapper\\CountryMappingProfile.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Service\\Automapper\\CountryMappingProfile.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Service\\Automapper\\CountryMappingProfile.cs",
+              "RelativeToolTip": "BasicWebAPI.Service\\Automapper\\CountryMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:52:57.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250315174636_init.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Dal\\Migrations\\20250315174636_init.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Dal\\Migrations\\20250315174636_init.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Dal\\Migrations\\20250315174636_init.cs",
+              "RelativeToolTip": "BasicWebAPI.Dal\\Migrations\\20250315174636_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:46:36.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20250315173910_init.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Dal\\Migrations\\20250315173910_init.cs",
+              "RelativeDocumentMoniker": "BasicWebAPI.Dal\\Migrations\\20250315173910_init.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BasicWebAPI\\BasicWebAPI.Dal\\Migrations\\20250315173910_init.cs",
+              "RelativeToolTip": "BasicWebAPI.Dal\\Migrations\\20250315173910_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:39:11.086Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

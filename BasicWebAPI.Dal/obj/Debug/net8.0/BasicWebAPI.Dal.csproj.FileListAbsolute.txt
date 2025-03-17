@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Dal\bin\Debug\net8.0\BasicWebAPI.Dal.deps.json
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Dal\bin\Debug\net8.0\BasicWebAPI.Dal.runtimeconfig.json
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Dal\bin\Debug\net8.0\BasicWebAPI.Dal.dll
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Dal\bin\Debug\net8.0\BasicWebAPI.Dal.pdb
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Dal\bin\Debug\net8.0\BasicWebAPI.Domain.dll
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Dal\bin\Debug\net8.0\BasicWebAPI.Domain.pdb
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Dal\obj\Debug\net8.0\BasicWebAPI.Dal.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Dal\obj\Debug\net8.0\BasicWebAPI.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Dal\obj\Debug\net8.0\BasicWebAPI.Dal.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Dal\obj\Debug\net8.0\BasicWebAPI.Dal.AssemblyInfo.cs
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Dal\obj\Debug\net8.0\BasicWebAPI.Dal.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Dal\obj\Debug\net8.0\BasicWeb.026F2531.Up2Date
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Dal\obj\Debug\net8.0\BasicWebAPI.Dal.dll
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Dal\obj\Debug\net8.0\refint\BasicWebAPI.Dal.dll
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Dal\obj\Debug\net8.0\BasicWebAPI.Dal.pdb
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Dal\obj\Debug\net8.0\BasicWebAPI.Dal.genruntimeconfig.cache
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Dal\obj\Debug\net8.0\ref\BasicWebAPI.Dal.dll

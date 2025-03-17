@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Service\bin\Debug\net8.0\BasicWebAPI.Service.deps.json
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Service\bin\Debug\net8.0\BasicWebAPI.Service.dll
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Service\bin\Debug\net8.0\BasicWebAPI.Service.pdb
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Service\obj\Debug\net8.0\BasicWebAPI.Service.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Service\obj\Debug\net8.0\BasicWebAPI.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Service\obj\Debug\net8.0\BasicWebAPI.Service.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Service\obj\Debug\net8.0\BasicWebAPI.Service.AssemblyInfo.cs
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Service\obj\Debug\net8.0\BasicWebAPI.Service.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Service\obj\Debug\net8.0\BasicWebAPI.Service.dll
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Service\obj\Debug\net8.0\refint\BasicWebAPI.Service.dll
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Service\obj\Debug\net8.0\BasicWebAPI.Service.pdb
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Service\obj\Debug\net8.0\ref\BasicWebAPI.Service.dll
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Service\bin\Debug\net8.0\BasicWebAPI.Dal.dll
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Service\bin\Debug\net8.0\BasicWebAPI.Domain.dll
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Service\bin\Debug\net8.0\BasicWebAPI.Dal.pdb
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Service\bin\Debug\net8.0\BasicWebAPI.Domain.pdb
+C:\Users\PC\source\repos\BasicWebAPI\BasicWebAPI.Service\obj\Debug\net8.0\BasicWeb.048468A1.Up2Date
